@@ -1,5 +1,6 @@
 #Nombre: Nicole Estefania Garcia Chiquito
 #3er semestre de Software A1
+#ejercicio en clase 2021-06-14
 
 class For:
     
@@ -14,9 +15,11 @@ class For:
         docente = {'nombre':'Nicole','edad':23,'fac':'faci'}
         listaNotas=[(30,40),(20,40),(50,40)]
         listaAlumnos= [{"nombre":"Nicole", "final":70},{"nombre":"Stefany", "final":60},{"nombre":"Nicky","final":90}]
+        
         # range[(inicio=0)], limite, [inc/dec=1].Genera un rango de valores desde un valor inicial
         # se ejecuta desde inicio hasta el limite
         # for con range() o for con colecciones
+        
         # j=0
         # while j<5:
         #     print('while',j)
@@ -78,8 +81,6 @@ class For:
         #     for clave, valor, in alumnos.items():
         #         print(clave,":", valor,end=" ")
         #     print()    
-        
-           
              
 bucle = For()
 bucle.usoFor()

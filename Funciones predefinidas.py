@@ -1,5 +1,6 @@
 #Nombre: Nicole Estefania Garcia Chiquito
 #3er semestre de Software A1
+# Guia dispositivas
 
 #Funciones matematicas
 import math
